@@ -1183,3 +1183,58 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+.icon-visualstudio{
+  background: url('../img/icon/Visual_Studio.png');
+  height: 60px;
+  width: 60px;
+  display: block;
+}
+.icon-visualcode{
+  background: url('../img/icon/visualcode.png');
+  height: 57px;
+  width: 56px;
+  display: block;
+}
+.icon-sqlserver{
+  background: url('../img/icon/sql-server.png');
+  height: 60px;
+  width: 60px;
+  display: block;
+}
+.icon-postman{
+  background: url('../img/icon/postman.png');
+  height: 60px;
+  width: 60px;
+  display: block;
+}
+.icon-photoshop{
+  background: url('../img/icon/photoshop.png');
+  height: 58px;
+  width: 60px;
+  display: block;
+}
+.icon-office{
+  background: url('../img/icon/office.png');
+  height: 57px;
+  width:57px;
+  display: block;
+}
+.icon-figma{
+  background: url('../img/icon/figma.png');
+  height: 57px;
+  width: 57px;
+  display: block;
+}
+.icon-dbeaver{
+  background: url('../img/icon/DBeaver.png');
+  height: 60px;
+  width: 60px;
+  display: block;
+}
+.icon-notepad{
+  background: url('../img/icon/Notepad.png');
+  height: 50px;
+  width: 60px;
+  display: block;
+}
